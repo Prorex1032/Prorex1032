@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Prorex1032
+- 👀 I’m interested in Web development and software(Java)
+- 🌱 I’m currently learning java
+- 📫 How to reach me Use a discord account and send friend request on (! Prorex#1032)
