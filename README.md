@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Prorex1032
-- 👀 I’m interested in Web development and software(Java)
-- 🌱 I’m currently learning java
-- 📫 How to reach me Use a discord account and send friend request on (! Prorex#1032)
+- 👋 Hi, I’m @Prorex.
+- 👀 I’m interested in Web development and software(Java).
+- 🌱 I’m currently learning C#.
+- 📫 How to reach me? Well its simple use a discord account and send friend request on (Prorex#3607).
+- 🌱 I'm learning C# For game development.
+- 🌱 My future plan is to build a company with my friend, and than start making high graphics games and be the next elon musk.
