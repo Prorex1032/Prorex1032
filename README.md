@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Prorex.
-- 👀 I’m interested in Web development and software(Java).
+- 👀 I’m interested in Web development and game development(Unity with C#).
 - 🌱 I’m currently learning C#.
 - 📫 How to reach me? Well its simple use a discord account and send friend request on (Prorex#3607).
 - 🌱 I'm learning C# For game development.
